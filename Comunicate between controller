@@ -1,5 +1,11 @@
 GUIDA DEFINITIVA ---> http://stackoverflow.com/questions/18880737/how-do-i-use-rootscope-in-angular-to-store-variables
 
+http://www.i-avington.com/Posts/Post/angularjs-using-a-service-to-communicate-between-two-different-controllers
+http://stackoverflow.com/questions/20181323/passing-data-between-controllers-in-angular-js
+http://stackoverflow.com/questions/18880737/how-do-i-use-rootscope-in-angular-to-store-variables
+
+
+
 http://onehungrymind.com/angularjs-communicating-between-controllers/
 http://stackoverflow.com/questions/14502006/scope-emit-and-on-in-angularjs
 https://www.exratione.com/2013/10/two-approaches-to-angularjs-controller-inheritance/
